@@ -2,8 +2,8 @@
 
 > **Transformando ideias em experiências digitais extraordinárias**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Silva-blue?style=flat&logo=linkedin)](Cassio-developer](www.linkedin.com/in/cassio-dos-santos-9531701ab)
-[![GitHub](https://img.shields.io/badge/GitHub-joaosilva-black?style=flat&logo=github)](Cassio-developer](https://github.com/Cassio-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassio-developer-blue?style=flat&logo=linkedin)](www.linkedin.com/in/cassio-dos-santos-9531701ab)
+[![GitHub](https://img.shields.io/badge/GitHub-Cassio-developer-black?style=flat&logo=github)](https://github.com/Cassio-developer)
 [![Email](https://img.shields.io/badge/Email-cassiodossantos0308$gmail.com-red?style=flat&logo=gmail)](mailto:cassiodossantos0308$gmail.com)
 
 
