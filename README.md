@@ -154,13 +154,13 @@ Atuação como desenvolvedor full-stack com foco em PHP Laravel, dominando o des
 > Sistema de gerenciamento de localizações em tempo real
 
 ### **sistema-medicamentos**
-> Plataforma de administração para gerenciar farmacias
+> Plataforma de administração para gerenciar farmacias e medicamentos
 
 ### **MesaBrasil**
-> Aplicativo para geranciar e recolher doações para Sesc
+> Aplicativo para geranciar e recolher doações e relizar entrega através do motorista e pontos de coletas, realizado em parceria com  Sesc
 
 ### **EGP**
-> Central de automação para escolas na parte administrativo
+> Central de automação para escolas para automatizar tarefas na parte administrativa
 
 ---
 
