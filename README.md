@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassio%20developer-bluestyle=flat&logo=linkedin)](https://www.linkedin.com/in/cassio-dos-santos-9531701ab)
 [![GitHub](https://img.shields.io/badge/GitHub-Cassio-developer?style=flat&logo=github)](https://github.com/Cassio-developer)
-[![Email](https://img.shields.io/badge/Email-cassiodossantos0308$gmail.com-red?style=flat&logo=gmail)](mailto:cassiodossantos0308$gmail.com)
+[![Email](https://img.shields.io/badge/Email-cassiodossantos0308$gmail.com-red?style=flat&logo=gmail)](mailto:cassiodossantos0308@gmail.com)
 
 
 ---
@@ -79,28 +79,34 @@ Transformar desafios complexos em soluções elegantes e eficientes, sempre com 
 
 ## 💼 **Experiência Profissional**
 
-### **Senior Full Stack Developer** - TechCorp
-*2022 - Presente*
-- 🎯 **Liderança técnica** de equipes de 8+ desenvolvedores
-- 📈 **Aumento de 300%** na performance de aplicações críticas
-- 🏗️ **Arquitetura de microserviços** para escala global
-- 💰 **Redução de 40%** nos custos de infraestrutura
+### **Full Stack Developer** - Compass.Uol
+*2025 - Presente*
 
-### **Full Stack Developer** - StartupXYZ
+- 🎨 **Design systems** para 50+ projetos
+- 📊 **Sistema de analytics** em tempo real
+- 🎯 **Liderança técnica** de equipes de 8+ desenvolvedores
+- 🏗️ **Arquitetura de microserviços** para escala global
+-  📱 **PWA development** para grandes marcas
+-  🚀 **Desenvolvimento de MVP** que gerou $2M em receita
+  
+-  **Projeto Natura**
+   Desenvolvimento de plataforma com arquitetura em microfrontends usando Next.js no front e bffs em Node.js para consumir serviços do Salesforce.
+
+- **Projeto WebConsultoria** 
+Projeto WC Desenvolvimento de um painel utilizando React, Styled Components, Node.js, GraphQL e integração com Salesforce. O projeto focou em criar uma interface performática e responsiva para gestão de conteúdo.
+
+- **Projetos NorteSul distribuidora e JC distribuidora**
+Implementação de e-commerce utilizando a plataforma Oracle StoreFront (OSF) e Oracle Commerce Cloud (OCC).
+
+### **Full Stack Developer** - Prefeitura de São Leopoldo
 *2020 - 2022*
-- 🚀 **Desenvolvimento de MVP** que gerou $2M em receita
-- 📱 **App mobile** com 100k+ downloads
 - 🔧 **Refatoração completa** de legacy code
 - 📊 **Sistema de analytics** em tempo real
 
-### **Frontend Developer** - DigitalAgency
-*2018 - 2020*
-- 🎨 **Design systems** para 50+ projetos
-- ⚡ **Otimização de performance** (Lighthouse 95+)
-- 📱 **PWA development** para grandes marcas
-- ♿ **Acessibilidade** (WCAG 2.1 AA)
+- **Prefeitura de São Leopoldo**
+Atuação como desenvolvedor full-stack com foco em PHP Laravel, dominando o desenvolvimento de aplicativos web com tecnologias como AJAX, Blade, HTML, CSS, Vue.js e Tailwind. Responsável por criar interfaces intuitivas e responsivas, demonstrando uma paixão pela construção de soluções robustas e comprometimento em entregar produtos de alta qualidade aos clientes. Sempre em busca de novos desafios e aprimoramento técnico.
 
----
+
 
 ## 🎯 **Especialidades**
 
@@ -144,17 +150,17 @@ Transformar desafios complexos em soluções elegantes e eficientes, sempre com 
 
 ## 🎨 **Projetos Pessoais**
 
-### **AI-Powered Task Manager**
-> Sistema de gerenciamento de tarefas com IA para priorização automática
+### **live-tracking-app-world**
+> Sistema de gerenciamento de localizações em tempo real
 
-### **Real-time Collaboration Platform**
-> Plataforma de colaboração em tempo real para equipes remotas
+### **sistema-medicamentos**
+> Plataforma de administração para gerenciar farmacias
 
-### **Blockchain Supply Chain Tracker**
-> Rastreamento de cadeia de suprimentos com blockchain
+### **MesaBrasil**
+> Aplicativo para geranciar e recolher doações para Sesc
 
-### **IoT Smart Home Hub**
-> Central de automação residencial com IoT
+### **EGP**
+> Central de automação para escolas na parte administrativo
 
 ---
 
